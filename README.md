@@ -1,4 +1,4 @@
-# Expense Tracking sytem
+# Day Ledger
 This is a simple Expense Tracker application built using React.js.  
 It allows users to:
 - Record transactions with date, time, type, and payment method.
